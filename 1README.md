@@ -12,10 +12,6 @@ the importance of your project, and what it does.*/
 
 Here we have created an online store, with an add to cart option on each produt's page. When an item is added to the cart an alert will let the user know immediately. The cart section is visible and will automatically display all the added items and the total. There are also forms on the checkout page, where a user is required to fill out a form with their details and delivery or collection options i.e  forms which allow discount coupons. When a user confirms an order and it is rendered successful an alert generating a reference number will be displayed. This project can be declared as a working prototype.
 
-See real examples:
-
-* <https://github.com/Think91/master/README.md>
-
 
 /*A table of Contents to allow other people to quickly navigate
 especially long or detailed READMEs.*/
