@@ -78,4 +78,5 @@ project if the project has been created by more than one person.*/
 
 ##Credits
 
-
+connect@hyperiondev.com
+nkosit@hyperiondev.com
