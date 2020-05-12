@@ -36,7 +36,7 @@ project locally.*/
 
 Sample:
 
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://github91.com/repository/package/shopping_cart).
+* From the Dropbox : install (https://github91.com/repository/package/shopping_cart).
 * From the command line: `github91 mp-install shopping cart`
 
 
